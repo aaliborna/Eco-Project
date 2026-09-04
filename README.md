@@ -102,6 +102,11 @@ The equilibrium quantity is then calculated using the demand equation.
 
 ✅ Equilibrium Point Highlighting
 
+## Example Output
+
+<img width="634" height="482" alt="image" src="https://github.com/user-attachments/assets/d9b624c2-d442-44bf-b41d-2245427f44e5" />
+
+
 ---
 
 # Design Philosophy
@@ -155,8 +160,6 @@ Some ideas for future versions include:
 ---
 
 # Final Note
-
-This project was built as a personal learning journey.
 
 Every feature was implemented step by step, with an emphasis on understanding *why* each component exists rather than simply making the program work.
 
